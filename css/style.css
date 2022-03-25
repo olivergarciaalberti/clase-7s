@@ -1,0 +1,41 @@
+.cabecera{
+    background-image: url(../img/foto\ cv.png);
+    border-bottom: solid 4px white;
+    background-repeat: no-repeat ;
+    background-position:left;
+    background-position-y: center  ;
+    background-size: 190px   ;
+    height: 190px;
+    width: auto;
+}
+
+body{
+    background-image:url(../img/abstracta.jpg);
+    background-position:top left ;
+    background-repeat: repeat;
+    background-size:100%;
+    font-family: 'Roboto', sans-serif;;
+    color:white;
+    font-size:larger  ;
+    font-weight: 500;
+    text-align: left;
+
+}
+.navegador a{
+    color: red;
+        padding-left: 25px;
+}
+.contenedor{
+    padding-left: 400px;
+}
+#exp{
+    text-align: center;
+    text-decoration: dashed;
+}
+.experiencias h2{
+    font-style: italic;
+}
+.fut a{
+    color: white;
+    justify-content: end;
+}
